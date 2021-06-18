@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "VueJS Dashboard"
+categories: Available Projects
+---
 ![Demo](https://dev.azure.com/gudatta/0b5a858a-1b86-4230-93a6-b7aea3f76bbb/_apis/git/repositories/6eb0051e-ba5e-4480-8562-9172a98fe8c0/items?path=%2Fdemo.png)
 
 ### Overview
