@@ -8,7 +8,7 @@ An overview of the solution source code and information on how to extend, build 
 
 An overview of available core projects that are designed to be extended.
 
-* [Core SharePoint](/jump-start-projects/available-projects/core-sp.md)
-* [Dashboard](/jump-start-projects/available-projects/dashboard.md)
-* [Dashboard (VueJS)](/jump-start-projects/available-projects/dashboard-vue.md)
-* [Document Set Dashboard](/jump-start-projects/available-projects/docset-dashboard.md)
+* [Core SharePoint](/jump-start-projects/available-projects/core-sp)
+* [Dashboard](/jump-start-projects/available-projects/dashboard)
+* [Dashboard (VueJS)](/jump-start-projects/available-projects/dashboard-vue)
+* [Document Set Dashboard](/jump-start-projects/available-projects/docset-dashboard)
