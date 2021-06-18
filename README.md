@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+This project will hold core solutions that are 60-100% complete. The goal is to create simple and powerful solutions that are reusable by design.
 
-You can use the [editor on GitHub](https://github.com/datta-framework/datta-framework.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### [Jump Start Projects](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/23/Jump-Start-Projects)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These projects are 60-80% complete and serve as a core base for a solution. The repository for each project should be `forked` to your client ADO project.
 
-### Markdown
+* [Core SharePoint](https://dev.azure.com/gudatta/Datta%20Framework/_git/core-sp)
+* [Dashboard](https://dev.azure.com/gudatta/Datta%20Framework/_git/dashboard)
+* [Dashboard (VueJS)](https://dev.azure.com/gudatta/Datta%20Framework/_git/dashboard-vue)
+* [Document Set Dashboard](https://dev.azure.com/gudatta/Datta%20Framework/_git/docset-dashboard)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### How to Contribute?
 
-```markdown
-Syntax highlighted code block
+Create a `branch` of the target project and submit a pull request. Create a new `branch` if a core solution does not exist. We are looking to grow this beyond **SharePoint**. Please help grow it.
 
-# Header 1
-## Header 2
-### Header 3
+* Azure
+* Power BI
+* Power Platform
+* PowerShell
+* Power Virtual Agents
+* Teams
+* etc
 
-- Bulleted
-- List
+### [Solutions](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/25/Solutions)
 
-1. Numbered
-2. List
+All solutions extend from a core jump start project. These projects are 80-100% complete and contain a JSON configuration. The solution assets are provided, so there is no need to compile your own version. If further customization is required, then the repository for each project can be `forked` to your client ADO project.
 
-**Bold** and _Italic_ and `Code` text
+* [Conference Line Request System](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/43/Conference-Line-Request-System)
+* [FAQ WebPart](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/44/FAQ-WebPart)
+* [License Management Tool](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/45/License-Management-Tool)
+* [M365 Roadmap](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/47/M365-Roadmap)
+* [Outages](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/49/Outages)
+* [Workflow Scanner](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/53/Workflow-Scanner)
 
-[Link](url) and ![Image](src)
-```
+#### Bugs & Feature Requests
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datta-framework/datta-framework.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Go to the corresponding board and submit a feature request or bug.
