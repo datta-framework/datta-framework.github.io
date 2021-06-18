@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Basic Setup"
+categories: Overview
+---
 Follow these steps to create a solution from a Jump Start project.
 
 #### Fork the Solution
