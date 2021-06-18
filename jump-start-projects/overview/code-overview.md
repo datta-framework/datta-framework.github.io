@@ -25,7 +25,7 @@ Contains the output bundled/packaged solution files.
 
 ### `spfx` Folder
 
-Contains the SPFx source code for building the SPFx package file. Reference the [SPFx Solutions](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/34/SPFx-Solutions) page for an overview of adding a modern WebPart.
+Contains the SPFx source code for building the SPFx package file. Reference the [SPFx Solutions](/jump-start-projects/overview/spfx.md) page for an overview of adding a modern WebPart.
 
 ### `src` Folder
 
