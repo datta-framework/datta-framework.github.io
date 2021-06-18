@@ -10,18 +10,18 @@ The projects will require your machine to be [Configured for SPFx](https://docs.
 
 It's recommended to use a manager for npm libraries. This can save on hard drive space. Run `npm i -g pnpm` to install it gloablly.
 
-#### [Code Overview](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/40/Code-Overview)
+#### [Code Overview](/jump-start-projects/overview/code-overview.md)
 
 An overview of the solution files common to all projects.
 
-#### [Basic Setup](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/35/Basic-Setup)
+#### [Basic Setup](/jump-start-projects/overview/basic-setup.md)
 
 Help with getting started with creating a solution.
 
-#### [SPFx Solution](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/34/SPFx-Solutions)
+#### [SPFx Solution](/jump-start-projects/overview/spfx.md)
 
 An overview of adding a WebPart to the solution.
 
-#### [Deploying Solutions](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/38/Deploying-Solutions)
+#### [Deploying Solutions](/jump-start-projects/overview/deployment.md)
 
 Help with deploying solutions to classic and modern pages.
