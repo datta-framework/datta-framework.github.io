@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Dashboard"
+categories: Available Projects
+---
 ![Demo](https://dev.azure.com/gudatta/0b5a858a-1b86-4230-93a6-b7aea3f76bbb/_apis/git/repositories/5c236f97-e050-459d-ad60-684879f75be9/items?path=%2Fdemo.png)
 
 ### Overview
