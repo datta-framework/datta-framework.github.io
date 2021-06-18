@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "SPFx Solutions"
+categories: Overview
+---
 These steps will give an overview of creating a modern SPFx WebPart to an existing solution.
 
 1. Access the solution using the command prompt or powershell
