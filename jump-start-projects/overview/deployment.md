@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Deployment"
+categories: Overview
+---
 ### Building the Solution
 
 `npm run [command]`
