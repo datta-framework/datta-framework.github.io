@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Core SharePoint Solution"
 categories: Available Projects
 ---
