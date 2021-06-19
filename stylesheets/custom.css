@@ -10,7 +10,7 @@ header {
     padding-bottom: 20px;
 }
 
-aside#sidebar a:before {
+aside#sidebar h2:before {
     padding-right: 0.3em;
     margin-left: -1.5em;
     content: "//";
