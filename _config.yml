@@ -1,4 +1,6 @@
 theme: jekyll-theme-architect
 
-name: Datta Framework
-tagline: SharePoint Rapid Development
+name:     Datta Framework
+tagline:  SharePoint Rapid Development
+baseurl:  ""
+locale:   "en"
