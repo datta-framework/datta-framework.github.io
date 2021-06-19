@@ -9,7 +9,7 @@ categories: Available Projects
 
 This project customizes a Document Set library's dashboard page. This allows you to create a custom dashboard associated with a document folder.
 
-#### [Getting Started](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/36/Solution-Overview)
+#### [Getting Started](/jump-start-projects/overview)
 
 Follow these steps to get started with extending this project.
 

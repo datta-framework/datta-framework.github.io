@@ -10,18 +10,18 @@ The projects will require your machine to be [Configured for SPFx](https://docs.
 
 It's recommended to use a manager for npm libraries. This can save on hard drive space. Run `npm i -g pnpm` to install it gloablly.
 
-#### [Code Overview](/jump-start-projects/overview/code-overview)
+#### [Code Overview](code-overview)
 
 An overview of the solution files common to all projects.
 
-#### [Basic Setup](/jump-start-projects/overview/basic-setup)
+#### [Basic Setup](basic-setup)
 
 Help with getting started with creating a solution.
 
-#### [SPFx Solution](/jump-start-projects/overview/spfx)
+#### [SPFx Solution](spfx)
 
 An overview of adding a WebPart to the solution.
 
-#### [Deploying Solutions](/jump-start-projects/overview/deployment)
+#### [Deploying Solutions](deployment)
 
 Help with deploying solutions to classic and modern pages.

@@ -9,7 +9,7 @@ categories: Available Projects
 
 This project is the base for all solutions. It should be used if an existing Jump Start solution doesn't exist. Feel free to contribute by submitting or requesting a core solution.
 
-#### [Getting Started](https://dev.azure.com/gudatta/Datta%20Framework/_wiki/wikis/Datta-Framework.wiki/36/Solution-Overview)
+#### [Getting Started](/jump-start-projects/overview)
 
 Follow these steps to get started with extending this project.
 
