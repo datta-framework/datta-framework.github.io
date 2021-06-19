@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "Jump Start Projects"
+categories: jump-start-projects
+---
 These projects are 60-80% complete and serve as a core base for a solution. The repository for each project should be `forked` to your client ADO project.
 
 ### [Overview](/jump-start-projects/overview)
