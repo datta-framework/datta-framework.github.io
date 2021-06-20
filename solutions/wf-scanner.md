@@ -3,7 +3,7 @@ layout: default
 title:  ""
 categories: Solutions
 ---
-![Demo](/images/wf-scanner.png)
+![Demo](/images/wf-dashboard.png)
 
 ### Overview
 
