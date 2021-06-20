@@ -3,7 +3,7 @@ layout: default
 title:  "Document Set Dashboard"
 categories: Available Projects
 ---
-![Demo](https://github.com/datta-framework/docset-dashboard/blob/main/demo.png?raw=true)
+![Demo](/images/docset-dashboard.png)
 
 ### Overview
 

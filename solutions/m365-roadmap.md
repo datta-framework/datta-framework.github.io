@@ -3,7 +3,7 @@ layout: default
 title:  ""
 categories: Solutions
 ---
-![Demo](https://github.com/datta-framework/m365-roadmap/blob/main/demo.png?raw=true)
+![Demo](/images/m365-roadmap.png)
 
 ### Overview
 

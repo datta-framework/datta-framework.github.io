@@ -3,7 +3,7 @@ layout: default
 title:  ""
 categories: Solutions
 ---
-![Demo](https://github.com/datta-framework/lmt/blob/main/demo.png?raw=true)
+![Demo](/images/lmt.png)
 
 ### Overview
 

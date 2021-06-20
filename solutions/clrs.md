@@ -3,7 +3,7 @@ layout: default
 title:  "Conference Line Request System"
 categories: Solutions
 ---
-![Demo](https://github.com/datta-framework/clrs/blob/main/demo.png?raw=true)
+![Demo](/images/clrs.png)
 
 ### Overview
 

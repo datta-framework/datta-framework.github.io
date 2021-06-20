@@ -3,7 +3,7 @@ layout: default
 title:  "Dashboard"
 categories: Available Projects
 ---
-![Demo](https://github.com/datta-framework/dashboard/blob/main/demo.png?raw=true)
+![Demo](/images/dashboard.png)
 
 ### Overview
 

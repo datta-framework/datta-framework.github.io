@@ -3,7 +3,7 @@ layout: default
 title:  "Core SharePoint Solution"
 categories: Available Projects
 ---
-![Demo](https://github.com/datta-framework/core-sp/blob/main/demo.png?raw=true)
+![Demo](/images/core-sp.png)
 
 ### Overview
 

@@ -3,7 +3,7 @@ layout: default
 title:  ""
 categories: Solutions
 ---
-![Demo](https://github.com/datta-framework/faq/blob/main/demo.png?raw=true)
+![Demo](/images/faq.png)
 
 ### Overview
 

@@ -3,7 +3,7 @@ layout: default
 title:  "VueJS Dashboard"
 categories: Available Projects
 ---
-![Demo](https://github.com/datta-framework/dashboard-vue/blob/main/demo.png?raw=true)
+![Demo](/images/dashboard-vue.png)
 
 ### Overview
 
