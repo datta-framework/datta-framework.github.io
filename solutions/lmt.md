@@ -3,7 +3,7 @@ layout: default
 title:  ""
 categories: Solutions
 ---
-![Demo](https://dev.azure.com/gudatta/0b5a858a-1b86-4230-93a6-b7aea3f76bbb/_apis/git/repositories/aabe30ef-6318-4318-a08f-85cbe1817d95/items?path=%2Fdemo.png)
+![Demo](https://github.com/datta-framework/lmt/blob/main/demo.png?raw=true)
 
 ### Overview
 

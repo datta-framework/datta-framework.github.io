@@ -3,7 +3,7 @@ layout: default
 title:  ""
 categories: Solutions
 ---
-![Demo](https://dev.azure.com/gudatta/0b5a858a-1b86-4230-93a6-b7aea3f76bbb/_apis/git/repositories/15f13730-9bab-4b25-9b9d-f18db8c4b233/items?path=%2Fdemo.png)
+![Demo](https://github.com/datta-framework/outages/blob/main/demo.png?raw=true)
 
 ### Overview
 

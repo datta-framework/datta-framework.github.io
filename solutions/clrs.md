@@ -3,7 +3,7 @@ layout: default
 title:  "Conference Line Request System"
 categories: Solutions
 ---
-![Demo](https://dev.azure.com/gudatta/0b5a858a-1b86-4230-93a6-b7aea3f76bbb/_apis/git/repositories/c49d86a2-2bcd-4833-919f-8b166d85012f/items?path=%2Fdemo.png)
+![Demo](https://github.com/datta-framework/clrs/blob/main/demo.png?raw=true)
 
 ### Overview
 

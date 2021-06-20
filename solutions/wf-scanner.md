@@ -3,7 +3,7 @@ layout: default
 title:  ""
 categories: Solutions
 ---
-![Demo](https://dev.azure.com/gudatta/0b5a858a-1b86-4230-93a6-b7aea3f76bbb/_apis/git/repositories/85a6bc97-99c9-4f69-a952-49c44fb8ce4e/items?path=%2Fdemo.png)
+![Demo](https://github.com/datta-framework/wf-scanner/blob/main/demo.png?raw=true)
 
 ### Overview
 
