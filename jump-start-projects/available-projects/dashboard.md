@@ -9,6 +9,8 @@ categories: Available Projects
 
 This project is the base for a solution requiring a data table.
 
+[Click Here](https://github.com/datta-framework/dashboard) to access the repository.
+
 #### [Getting Started](/jump-start-projects/overview)
 
 Follow these steps to get started with extending this project.

@@ -9,6 +9,8 @@ categories: Available Projects
 
 This project customizes a Document Set library's dashboard page. This allows you to create a custom dashboard associated with a document folder.
 
+[Click Here](https://github.com/datta-framework/docset-dashboard) to access the repository.
+
 #### [Getting Started](/jump-start-projects/overview)
 
 Follow these steps to get started with extending this project.

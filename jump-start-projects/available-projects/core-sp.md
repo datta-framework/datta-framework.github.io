@@ -9,6 +9,8 @@ categories: Available Projects
 
 This project is the base for all solutions. It should be used if an existing Jump Start solution doesn't exist. Feel free to contribute by submitting or requesting a core solution.
 
+[Click Here](https://github.com/datta-framework/core-sp) to access the repository.
+
 #### [Getting Started](/jump-start-projects/overview)
 
 Follow these steps to get started with extending this project.
