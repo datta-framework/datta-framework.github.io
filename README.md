@@ -6,6 +6,8 @@ These libraries are reusable by design and are included in various projects and 
 
 * [DattaTable](/dattatable)
 
+Renders a dashboard linked to a SharePoint list. A [code walkthrough](https://github.com/gunjandatta/sp-dashboard/wiki) is available.
+
 ### [Jump Start Projects](/jump-start-projects)
 
 These projects are 60-80% complete and serve as a core base for a solution. The repository for each project should be `forked` to your client ADO project.
@@ -14,14 +16,6 @@ These projects are 60-80% complete and serve as a core base for a solution. The 
 * [Dashboard](/jump-start-projects/available-projects/dashboard)
 * [Dashboard (VueJS)](/jump-start-projects/available-projects/dashboard-vue)
 * [Document Set Dashboard](/jump-start-projects/available-projects/docset-dashboard)
-
-### Libraries
-
-These libraries are reusable by design.
-
-#### [DattaTable](/dattatable)
-
-Renders a dashboard linked to a SharePoint list. A [code walkthrough](https://github.com/gunjandatta/sp-dashboard/wiki) is available.
 
 ### Bugs & Feature Requests
 
