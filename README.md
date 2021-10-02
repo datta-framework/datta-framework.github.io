@@ -1,5 +1,11 @@
 This project will hold core solutions that are 60-100% complete. The goal is to create simple and powerful solutions that are reusable by design.
 
+### [Libraries](/libraries)
+
+These libraries are reusable by design and are included in various projects and solutions.
+
+* [DattaTable](/dattatable)
+
 ### [Jump Start Projects](/jump-start-projects)
 
 These projects are 60-80% complete and serve as a core base for a solution. The repository for each project should be `forked` to your client ADO project.
