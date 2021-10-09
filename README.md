@@ -8,7 +8,7 @@ Renders a dashboard linked to a SharePoint list. A [code walkthrough](https://gi
 
 ### [Jump Start Projects](/jump-start-projects)
 
-These projects are 60-80% complete and serve as a core base for a solution. The repository for each project should be `forked` to your client ADO project.
+These projects are 60-80% complete and serve as a core base for a solution. The repository for each project should be `forked` to your client organization.
 
 * [Core SharePoint](/jump-start-projects/available-projects/core-sp)
 * [Dashboard](/jump-start-projects/available-projects/dashboard)
