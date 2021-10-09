@@ -1,5 +1,3 @@
-The components for building solutions.
-
 ### [Libraries](/libraries)
 
 * [DattaTable](/dattatable) - Components for building a dashboard
