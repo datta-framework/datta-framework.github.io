@@ -1,7 +1,6 @@
 theme: jekyll-theme-architect
 
 name:     SharePoint Sprockets
-description: 
-tagline:  Datta Framework<br/>The components for building solutions.
-baseurl:  ""
+tagline:  Datta Framework components for building solutions
+baseurl:  "spsprockets.com"
 locale:   "en"
