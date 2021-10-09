@@ -15,5 +15,5 @@ An overview of available core projects that are designed to be extended.
 
 #### [Core SharePoint](/jump-start-projects/available-projects/core-sp)
 #### [Dashboard](/jump-start-projects/available-projects/dashboard)
-#### [Documents View](/jump-start-projects/available-projects/documents-view)
+#### [Documents View](https://dattabase.com/examples/#documents-view-webpart)
 #### [Document Set Dashboard](/jump-start-projects/available-projects/docset-dashboard)
