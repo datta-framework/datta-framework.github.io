@@ -5,5 +5,5 @@ categories: Available Projects
 ---
 ### [Core SharePoint](core-sp)
 ### [Dashboard](dashboard)
-### [Dashboard (VueJS)](dashboard-vue)
+### [Documents View](https://dattabase.com/examples/#documents-view-webpart)
 ### [Document Set Dashboard](docset-dashboard)

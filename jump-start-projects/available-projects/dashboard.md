@@ -24,3 +24,7 @@ Update this file to define the associated list(s) and field(s) to use in this pr
 ##### Dashboard _src/dashboard_ Folder
 
 The dashboard folder contains all of the associated code to render the data table.
+
+#### [Code Walkthrough](https://dattabase.com/examples/#basic-dashboard)
+
+A step-by-step walkthrough is available for this project.
