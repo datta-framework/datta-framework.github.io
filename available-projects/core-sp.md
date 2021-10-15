@@ -11,7 +11,7 @@ This project is the base for all solutions. It should be used if an existing Jum
 
 [Click Here](https://github.com/datta-framework/core-sp) to access the repository.
 
-#### [Getting Started](/jump-start-projects/overview)
+#### [Getting Started](/overview)
 
 Follow these steps to get started with extending this project.
 

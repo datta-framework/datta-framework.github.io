@@ -11,7 +11,7 @@ This project customizes a Document Set library's dashboard page. This allows you
 
 [Click Here](https://github.com/datta-framework/docset-dashboard) to access the repository.
 
-#### [Getting Started](/jump-start-projects/overview)
+#### [Getting Started](/overview)
 
 Follow these steps to get started with extending this project.
 

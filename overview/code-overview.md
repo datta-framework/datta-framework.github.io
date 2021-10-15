@@ -30,7 +30,7 @@ Contains the output bundled/packaged solution files.
 
 ### `spfx` Folder
 
-Contains the SPFx source code for building the SPFx package file. Reference the [SPFx Solutions](/jump-start-projects/overview/spfx) page for an overview of adding a modern WebPart.
+Contains the SPFx source code for building the SPFx package file. Reference the [SPFx Solutions](/overview/spfx) page for an overview of adding a modern WebPart.
 
 ### `src` Folder
 
