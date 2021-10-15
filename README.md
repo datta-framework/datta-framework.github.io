@@ -1,3 +1,5 @@
+This framework contains the building blocks for creating SharePoint solutions.
+
 ### [Libraries](/libraries)
 
 * [DattaTable](/dattatable) - Components for building a dashboard
