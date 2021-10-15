@@ -4,13 +4,13 @@ This framework contains the building blocks for creating SharePoint solutions.
 
 * [DattaTable](/dattatable) - Components for building a dashboard
 
-### [Jump Start Projects](/jump-start-projects)
+### Jump Start Projects
 
 These projects are 60-80% complete and serve as a core base for a solution. The repository for each project should be `forked` to your client organization.
 
-* [Core SharePoint](/jump-start-projects/available-projects/core-sp)
-* [Dashboard](/jump-start-projects/available-projects/dashboard)
-* [Document Set Dashboard](/jump-start-projects/available-projects/docset-dashboard)
+* [Core SharePoint](/available-projects/core-sp)
+* [Dashboard](/available-projects/dashboard)
+* [Document Set Dashboard](/available-projects/docset-dashboard)
 
 ### [Create a Project](/overview/create-project)
 
