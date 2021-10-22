@@ -63,7 +63,7 @@ Webpack is used to bundle the files into a single output.
     * [url-loader](https://www.npmjs.com/package/url-loader)
 
 ```
-npm i --save-dev webpack webpack-cli @babel/core @babel/preset-env babel-loader css-loader html-loader sass-loader style-loader ts-loader url-loader
+npm i --save-dev webpack webpack-cli @babel/core @babel/preset-env babel-loader css-loader html-loader node-sass sass-loader style-loader ts-loader url-loader
 ```
 _The '--save-dev' will update the package.json file's "devDependencies" property._
 
